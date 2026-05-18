@@ -1,0 +1,10 @@
+.env
+.env.*
+*.pem
+dist/
+bin/
+*.log
+.idea/
+.vscode/
+*.swp
+.DS_Store
