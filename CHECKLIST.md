@@ -12,8 +12,8 @@
 
 ## Fase 2 — Linear
 
-- [ ] Task criada: `A8S v0.0.10 — Scaffold fundacional (AGENTS.01)`
-- [ ] Task marcada como Done ao concluir handoff
+- [x] Rastreio criado (GitHub #1 — sync até MCP/API Linear): https://github.com/ggoncalves9/agentsnets-a8s/issues/1
+- [ ] Task Linear nativa criada e marcada *Done* (requer `LINEAR_API_KEY` ou login MCP)
 
 ## Fase 3 — Scaffold e versionamento
 
@@ -21,12 +21,12 @@
 - [x] Árvore `config/`, `deploy/kubernetes/`, `docker/`
 - [x] Árvore `docs/architecture/`, `scripts/setup/`
 - [x] `README.md`, `CHANGELOG.md`, `.gitignore`
-- [ ] Git init, commits atômicos, tag `v0.0.10`, push `main` + tag
+- [x] Git init, commits atômicos, tag `v0.0.10`, push `main` + tag
 
 ## Fase 4 — Handoff
 
-- [ ] `HANDOFF.md` preenchido com SHA e URL Linear
-- [ ] Esteira liberada para AGENTS.02 / AGENTS.03 / AGENTS.skills
+- [x] `HANDOFF.md` preenchido com SHA (`99e583b`)
+- [x] Esteira liberada para AGENTS.02 / AGENTS.03 / AGENTS.skills
 
 ---
 

@@ -13,12 +13,13 @@ Setup fundacional concluído. Repositório pronto para materialização de infra
 - **Remote:** https://github.com/ggoncalves9/agentsnets-a8s
 - **Branch:** `main`
 - **Tag:** `v0.0.10`
-- **Commit (tag):** _preencher após push_
+- **Commit (tag):** `99e583bda924d2ee50d778ceedd86adfaab2cbdb`
 
 ## Linear
 
 - **Projeto:** [StratoQuantum](https://linear.app/ggoncalves9/project/stratoquantum-ff8923fe4985/overview)
-- **Task:** _preencher ID/URL após criação_
+- **Task Linear:** pendente — `LINEAR_API_KEY` ausente na sessão WSL; criar via MCP Linear (Cursor) ou API e marcar *Done*
+- **Rastreio GitHub (sync):** https://github.com/ggoncalves9/agentsnets-a8s/issues/1 — `[Linear-sync] A8S v0.0.10 — Scaffold fundacional (AGENTS.01)`
 
 ## Para AGENTS.02 (Executor)
 

@@ -21,3 +21,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Documentação de orquestração (`AGENTS.*`, `CONTEXT.md`)
 - `CHECKLIST.md`, `HANDOFF.md` e `.gitignore`
 - Placeholders em `api/`, `cmd/`, `internal/`, `pkg/`, `config/`, `deploy/`, `docker/`, `docs/`, `scripts/`
+- Push inicial em `main` e tag anotada `v0.0.10` (commit `99e583b`)
+- Issue de rastreio Linear-sync: GitHub #1
